@@ -117,9 +117,9 @@ describe("Get how many movies - howManyMovies", function() {
   });
 });
 
-/*
- * orderAlphabetically
- */
+// /*
+//  * orderAlphabetically
+//  */
 
 describe("Order alphabetically - orderAlphabetically", function() {
   it("Defines orderAlphabetically", function() {
@@ -266,9 +266,9 @@ describe("Order alphabetically - orderAlphabetically", function() {
   });
 });
 
-/*
- * ratesAverage
- */
+// /*
+//  * ratesAverage
+//  */
 describe("Get the average rate - ratesAverage", function() {
   it("Defines ratesAverage", function() {
     expect(typeof ratesAverage).toBe("function");
@@ -295,9 +295,9 @@ describe("Get the average rate - ratesAverage", function() {
   });
 });
 
-/*
- * dramaMoviesRate
- */
+// /*
+//  * dramaMoviesRate
+//  */
 
 describe("Average rate of Drama Movies - dramaMoviesRate", function() {
   it("Defines dramaMoviesRate", function() {
